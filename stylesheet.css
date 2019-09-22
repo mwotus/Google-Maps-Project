@@ -1,0 +1,71 @@
+/*CSS Stylesheet*/
+
+/*
+* {
+border: 1px solid black;
+}
+*/
+body {
+    margin: 0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+
+ 
+   
+}
+
+img {
+    max-width: 100%;
+}
+
+.clearfix {
+    clear: both;
+}
+
+
+
+#map {
+    height: 73vh;
+    width: 73vw;
+    margin: 0 auto;
+   
+
+}
+
+#center {
+    max-width: 20vw;
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(211, 48, 54);
+    background: rgb(29, 80, 156);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+ 
+ 
+}
+
+h1 {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    margin: 0px;
+    
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#header {
+    text-align: center;
+    max-width: 73vw;
+}
+
+
